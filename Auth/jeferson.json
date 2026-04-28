@@ -1,0 +1,11 @@
+{
+  "user_id": "c9fad16db13e425e8f1daaf57db3171e",
+  "username": "jeferson",
+  "email": "djaxelf22@gmail.com",
+  "phone": "82999158412",
+  "password_hash": "scrypt:32768:8:1$XxxlUmB8iNO81f3r$dce73bb071cd9a12c900a0aab81fa3aab60461102f36174c843f81c6f9a02b5aacd474012b83f456768bc53534e79cc0681f6b74e678a340f97c7c411cd49bec",
+  "display_name": "Jeferson",
+  "role": "desenvolvedor",
+  "created_at": "2026-04-28T13:31:58.487905+00:00",
+  "active": true
+}
