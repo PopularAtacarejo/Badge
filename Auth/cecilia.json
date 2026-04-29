@@ -1,0 +1,12 @@
+{
+  "user_id": "67ede6665de349b0a15d6cc059d6d3e5",
+  "username": "cecilia",
+  "email": "rh2@popularhomecenter.com.br",
+  "phone": "",
+  "password_hash": "scrypt:32768:8:1$rkuo0KbjfuAKDptA$54595f155d0d559b45a619f72ff077e65138bffcbee8cbb8c687f51cd8935e1d216558986f7adc5af0251312779203b3c393720ee3c62a3754f9d2613685cefe",
+  "display_name": "Cecilia",
+  "role": "administrador",
+  "created_at": "2026-04-29T14:36:07.565735+00:00",
+  "active": true,
+  "avatar_path": ""
+}
